@@ -3,7 +3,7 @@
       {
         "name": "AVINASH LAKHERA",
         "proficiency": 95,
-        "image": "https://i.pinimg.com/originals/49/b1/57/49b15751de3fc7b49e7bca55ac54e44a.jpg",
+        "image": "",
         "role": "Full Stack Developer",
         "description": "Iem.",
         "availability_time": "Full Time",
@@ -73,12 +73,12 @@
       {
         "name": "AVINASH LAKHERA",
         "proficiency": 95,
-        "image": "https://i.pinimg.com/originals/49/b1/57/49b15751de3fc7b49e7bca55ac54e44a.jpg",
+        "image": "",
         "role": "Full Stack Developer",
         "description": "ystem.",
         "availability_time": "Full Time",
         "availability_join_date": "2022-07-28",
-        "other2_skills": "Weka, Lapache, Angular,VS Code, JSON",
+        "other2_skills": "Weka,JSON",
         "projects": [
           {
             "name": "Ebill management system",
@@ -132,13 +132,13 @@
       }
     ],
     "users": [
-            {
-        "name": "AMITH KUMAR",
-        "email": "amith@alohatechnologydev.com",
-        "password": "Amith123",
-        "user_type": "Developer",
-        "id": 5
-      },
+        {
+            "name": "AMITH KUMAR",
+            "email": "amith@alohatechnologydev.com",
+            "password": "Amith123",
+            "user_type": "Developer",
+            "id": 5
+          },
       {
         "name": "Yogesh",
         "email": "yogesh@aloha.com",
