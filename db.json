@@ -69,6 +69,76 @@
         "availabilityTime": "Full Time",
         "availabilityJoinDate": "2022-07-28",
         "id": 1
+      },
+      {
+        "name": "AVINASH LAKHERA",
+        "proficiency": 95,
+        "image": "https://i.pinimg.com/originals/49/b1/57/49b15751de3fc7b49e7bca55ac54e44a.jpg",
+        "role": "Full Stack Developer",
+        "description": "I rom a Healthcare application to a Content Scheduling system.",
+        "availability_time": "Full Time",
+        "availability_join_date": "2022-07-28",
+        "other2_skills": "Weka, Lapache, Angular,VS Code, JSON",
+        "projects": [
+          {
+            "name": "Ebill management system",
+            "description": "Titayment status.",
+            "skills": "WordPress, HTML5, CSS3, jQuery, JavaScript, MySQL, Jira"
+          },
+          {
+            "name": "Tourism Project",
+            "description": "optimization.",
+            "skills": "Node.js, React, Redux, RESTful API, HTML, CSS"
+          },
+          {
+            "name": "Fleet Management System",
+            "description": "ion.",
+            "skills": "Python, Fast API, Angular, MongoDB, Postgres, Azure Cloud"
+          }
+        ],
+        "skills": [
+          {
+            "name": "PHP",
+            "value": "1",
+            "total": 15,
+            "exp": "2"
+          },
+          {
+            "name": "React",
+            "value": "3",
+            "total": 15,
+            "exp": "4"
+          },
+          {
+            "name": "Vue.js",
+            "value": "2",
+            "total": 15,
+            "exp": "1"
+          },
+          {
+            "name": "MySQL",
+            "value": "7",
+            "total": 15,
+            "exp": "5"
+          },
+          {
+            "name": "Amplify.js",
+            "value": "9",
+            "exp": "7"
+          },
+          {
+            "name": "jQuery",
+            "exp": "3",
+            "value": "5"
+          }
+        ],
+        "aboutmevideo": "https://vimeo.com/719593585/9234f4b1a8",
+        "aboutme": "A self intro",
+        "aboutmygmvs": "test",
+        "aboutmetitle": "About me",
+        "availabilityTime": "Full Time",
+        "availabilityJoinDate": "2022-07-28",
+        "id": 2
       }
     ],
     "users": [
